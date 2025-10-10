@@ -1,1 +1,2 @@
-# Git Intro Project
+# C Intro
+PLEASE JUST WORK ALREADY
